@@ -1,2 +1,2 @@
 # Jenkins_and_docker
-Meetup demo
+Simple project to connect Jenkins to Github and run multipipeline. 
